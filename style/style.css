@@ -642,14 +642,14 @@ body a:hover{
 	margin-bottom: 85px;
 }
 .pricingBg {
-	background: url("/img/prici-bl.png");
+	background: url("img/prici-bl.png");
 	background-position: center;
 	background-size: cover;
 	height: 669px;
 	padding: 30px;
 }
 .pricingBg:hover{
-    background: url("/img/pricing-yl.png");
+    background: url("img/pricing-yl.png");
     background-position: center;
     background-size: cover;
 }
